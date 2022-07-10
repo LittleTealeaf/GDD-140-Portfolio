@@ -1,0 +1,99 @@
+
+
+#projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: fit-content;
+    margin: auto;
+}
+
+
+#projects .container {
+    width: 275px;
+    min-height: 275px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    border-radius: 40px;
+    background-size: auto 100% !important;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+
+    transition-duration: 0.5s;
+}
+
+#projects .container:hover {
+    box-shadow: 0px 0px 50px rgba(0,0,0,1);
+}
+
+#projects .container h3 {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    flex-grow: 1;
+}
+
+#projects .container p {
+    color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    text-align: center;
+    align-items: flex-end;
+
+}
+
+#projects .container .links {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+
+#projects .container .links .material-icons {
+    font-size: 40px;
+    width: fit-content;
+    text-decoration: none;
+    color: #fff;
+    margin-inline: 30px;
+    transition-duration: 0.5s;
+    text-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+}
+#projects .container .links .material-icons:hover {
+    color: rgb(206, 60, 60);
+    text-shadow: 0px 0px 20px rgba(0,0,0,1);
+}
+
+
+.categories {
+    display: flex;
+    margin: auto;
+    margin-bottom: 5px;
+    color: #fff;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.categories div {
+    padding-inline: 10px;
+}
+
+
+#title {
+    width: 100%;
+}
+
+#title h1 {
+    margin: auto;
+    width: fit-content;
+    padding-top: 50px;
+    font-size: 100px;
+}
+
+#title h3 {
+    font-size: 20px;
+    width: fit-content;
+    margin: auto;
+}

@@ -1,6 +1,151 @@
 [
     {
         "name": "Generative Art Final",
-        "repo": "GDD-140-Final"
+        "repo": "GDD-140-Final",
+        "image": "GDD-140-Final.png",
+        "description": "Creating a randomly generated moving picture using recursive functions",
+        "categories": ["Final","Projects"]
+    },
+    {
+        "name": "Spheres Wallpaper",
+        "repo": "GDD-140-Spheres-Wallpaper",
+        "image": "GDD-140-Spheres-Wallpaper.png",
+        "description": "Creates randomized wallpapers of colored spheres by manually rendering each pixel of the screen.",
+        "categories": ["Side Projects"]
+    },{
+        "name": "Abstract Clock",
+        "repo": "GDD-140-Project-1.2",
+        "description": "I used the current date and time to create a clock that abstractly represents time.",
+        "categories": ["Projects"]
+    },{
+        "name": "Exercise 1.1",
+        "repo": "GDD-140-Exercise-1.1",
+        "description": "Creating a pattern manually using p5.js (I struggled not using loops!!!)",
+        "categories": ["Exercises"]
+    },
+    {
+        "name": "Exercise 0.0",
+        "repo": "GDD-140-Exercise-0",
+        "image": "GDD-140-Exercise-0.0.png",
+        "description": "My first attempt at getting a p5.js project on GitHub",
+        "categories": ["Exercises"]
+    },
+    {
+        "name": "Exercise 1.0",
+        "repo": "GDD-140-Exercise-1.0",
+        "image": "GDD-140-Exercise-1.0.png",
+        "description": "",
+        "categories": ["Exercises"]
+    },
+    {
+        "name": "Exercise 2.0",
+        "repo": "GDD-140-Exercise-2.0",
+        "description": "Introduction to interactivity with the mouse and clicking",
+        "categories": ["Exercises"]
+    },{
+        "name": "Exercise 2.1",
+        "repo": "GDD-140-Exercise-2.1",
+        "description": "Colorful visual program to demonstrate randomness and animation",
+        "categories": ["Exercises"]
+    },{
+        "name": "Branching Generative Art",
+        "repo": "GDD-140-Project-2.2",
+        "description": "Generative Art with a randomized branching pattern",
+        "categories": ["Projects"]
+    },{
+        "name": "Exercise 3.0",
+        "repo": "GDD-140-Exercise-3.0",
+        "description": "Demonstrating simple bouncing and wrappings of moving objects",
+        "categories": ["Exercises"]
+    },{
+        "name": "Exercise 3.1",
+        "repo": "GDD-140-Exercise-3.1",
+        "description": "Creating a \"Button\" to determine the shape of an object",
+        "categories": ["Exercises"]
+    },{
+        "name": "Drawing Panel",
+        "repo": "GDD-140-Project-3.2",
+        "description": "A very simple drawing canvas that allows the user to select colors and draw",
+        "categories": ["Projects"]
+    },{
+        "name": "Exercise 4.0",
+        "repo": "GDD-140-Exercise-4.0",
+        "description": "Exercise demonstrating the use of loops to draw an image",
+        "categories": ["Exercises"]
+    },{
+        "name": "Exercise 4.1",
+        "repo": "GDD-140-Exercise-4.1",
+        "description": "An exercise demonstrating additional control of loops",
+        "categories": ["Exercises"]
+    },{
+        "name": "Pattern Wallpaper",
+        "repo": "GDD-140-Project-4.2",
+        "description": "Using many, many loops to create a hard-to-look-at wallpaper",
+        "categories": ["Projects"]
+    },{
+        "name": "Exercise 5.0",
+        "repo": "GDD-140-Exercise-5.0",
+        "description": "Because we totally needed more exercises on loops",
+        "categories": ["Exercises"]
+    },{
+        "name": "Exercise 5.1",
+        "repo": "GDD-140-Exercise-5.1",
+        "description": "An exercise on moving the planar grid to get cool warping effects",
+        "categories": ["Exercises"]
+    },{
+        "name": "Conway's Game of Life",
+        "repo": "GDD-140-Project-5.2",
+        "description": "Recreating an interactive Conway's Game of Life in p5.js",
+        "categories": ["Projects"]
+    },{
+        "name": "Exercise 6.0",
+        "repo": "GDD-140-Exercise-6.0",
+        "description": "Graphically displaying a set of values in an array",
+        "categories": ["Exercises"]
+    },{
+        "name": "Exercise 6.1",
+        "repo": "GDD-140-Exercise-6.1",
+        "description": "Graphically displaying a set of objects in an array",
+        "categories": ["Exercises"]
+    },{
+        "name": "Stackoverflow Survey Visualization",
+        "repo": "GDD-140-Project-6.2",
+        "description": "Visually Representing a large amount of data regarding coding languages from StackOverflow's Developer Survey for 2021",
+        "categories": ["Projects"]
+    },{
+        "name": "Exercise 7.0",
+        "repo": "GDD-140-Exercise-7.0",
+        "description": "Demonstrating dynamically displaying images on the board",
+        "categories": ["Exercises"]
+    },{
+        "name": "Exercise 7.1",
+        "repo": "GDD-140-Exercise-7.1",
+        "description": "Using loops to 'pixelate' an image",
+        "categories": ["Exercises"]
+    },{
+        "name": "Hidden Image",
+        "repo": "GDD-140-Project-7.2",
+        "categories": ["Projects"],
+        "description": "Using pixel rendering to hide a second image behind another, only showing the hidden image around the mouse"
+    },{
+        "name": "Exercise 8.1",
+        "repo": "GDD-140-Exercise-8.1",
+        "categories": ["Exercises"],
+        "description": "Exercise demonstrating using mutliple objects and looping through each one"
+    },{
+        "name": "Descending into the dark",
+        "repo": "GDD-140-Project-8.2",
+        "categories": ["Projects"],
+        "description": "Using loops and perlin noise in a parallax effect to make the illusion of descending into a ravine."
+    },{
+        "name": "Colorful Mouse Tracker",
+        "repo": "GDD-140-Drawing-Pad",
+        "categories": ["Side Projects"],
+        "description": "A project I made with a circle following the mouse and leaving a trail, changing colors based on the location"
+    },{
+        "name": "Connect-4",
+        "repo": "GDD-140-Connect-4",
+        "categories": ["Side Projects"],
+        "description": "Implementing an AI algorithm made in another class, I made a bare-bones connect-4 game using p5.js"
     }
 ]
